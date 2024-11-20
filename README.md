@@ -21,13 +21,7 @@ This repository is my space for sharing projects and learnings in deep learning.
   <img src="https://miro.medium.com/v2/resize:fit:1080/1*nTHoUrFO1WIcovnwC3wS_Q.gif">
 </p>
 
-## ⬇️ Installation
 
-Start by cloning the repository to run the projects locally:
-
-```bash
-git clone https://github.com/Duygu-Jones/Deep-Learning-Projects.git
-```
 
 ## ♻️ Usage
 
@@ -42,14 +36,14 @@ Contributions are welcome! If you have any improvements, data, or projects to ad
 
 ## 🌱 About Me
 
-I'm Duygu Jones, a Data Scientist passionate about analyzing data and exploring machine learning. 
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
-You can learn more about me and my work at:
-- **LinkedIn**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+♻️ You can find more about me and my work through the following links:
+
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+
 
 Feel free to connect!
 
@@ -58,11 +52,5 @@ Feel free to connect!
 ✨ And if you find this repository helpful, consider giving it a star. ⭐
 
 Happy coding! 👩‍💻✨
-
----
-
-##### 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
