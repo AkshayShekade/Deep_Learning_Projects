@@ -6,7 +6,7 @@ Drug Label Text Extraction💊 <br>  Optical Character Recognition (OCR)🔎
 
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Deep-Learning-Projects/blob/main/04_Drug_Label_Extraction_PaddleOCR/drug4_output.png?raw=true"
+  <img src="https://github.com/AkshayShekade/Deep_Learning_Projects/blob/main/Drug_Label_Extraction_PaddleOCR/drug4_output.png"
 </p>
 
 ## Project Insight 
@@ -35,7 +35,7 @@ Automating text extraction from drug labels speeds up the process and eliminates
 4. **Visualization**: The detected text was annotated on the images for a clear, visual representation.
 
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/Deep-Learning-Projects/blob/main/04_Drug_Label_Extraction_PaddleOCR/drug5_output.png?raw=true"
+  <img src="https://github.com/AkshayShekade/Deep_Learning_Projects/blob/main/Drug_Label_Extraction_PaddleOCR/drug5_output.png?raw=true"
 </p>
    
 ## Conclusion
