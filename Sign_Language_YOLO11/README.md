@@ -8,7 +8,7 @@
 
 | 📽️ **YOLO11 ASL Detection - Output Video Link**     | 
 |------------------------------------------------------|
-| [![Watch the video](https://github.com/Duygu-Jones/Deep-Learning-Projects/blob/main/03_Sign_Language_YOLO11/ASL_output_img.png?raw=true)](https://youtu.be/GfvfUCwjrSA?si=Pg0buaqQGxHnqyxC)  
+| [![Watch the video](https://github.com/AkshayShekade/Deep_Learning_Projects/blob/main/Sign_Language_YOLO11/ASL_output_img.png?raw=true)](https://youtu.be/GfvfUCwjrSA?si=Pg0buaqQGxHnqyxC)  
 
 ## Project Overview
 
@@ -74,12 +74,7 @@ If you'd like to contribute or discuss improvements, don't hesitate to connect!
 
 
 
-## ⬇️Installation
 
-*To view the notebook and training results, visit my **Kaggle** profile.*  
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook: [Sign Language Detection using YOLO11 🤟](https://www.kaggle.com/code/duygujones/sign-language-detection-using-yolo11)
  
 ## 🤝Contributing
 
@@ -89,15 +84,13 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist passionate about deep learning and AI applications.
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
 
 🌐Feel free to connect with me!
 
@@ -110,7 +103,3 @@ I'm Duygu Jones, a Data Scientist passionate about deep learning and AI applicat
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
