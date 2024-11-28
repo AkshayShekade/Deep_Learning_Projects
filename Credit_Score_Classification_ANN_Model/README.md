@@ -7,7 +7,7 @@
 
 ## Project Overview
 <p align="center">
-  <img src="https://github.com/Duygu-Jones/DL_Projects/blob/main/01_Credit_Score_Classification_ANN_Model/credit_score_png2x.png"
+  <img src="https://github.com/AkshayShekade/Deep_Learning_Projects/blob/main/Credit_Score_Classification_ANN_Model/_4ace9bdf-e963-4b32-9c62-6e92b4b839fa.jpg"
 </p>
   
 This project focuses on building a robust **Artificial Neural Network (ANN)** model to predict customer credit scores based on various attributes, including demographic, financial, and behavioural data.   
@@ -101,12 +101,6 @@ The target feature is the **Credit_Score**, which classifies customers into thre
     
 ---    
 
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook: [Credit Score Classification EDA + ANN Model💳💹](https://www.kaggle.com/code/duygujones/credit-score-classification-eda-ann-model)
  - The dataset is available to download on the Kaggle: [Credit score classification]([https://www.kaggle.com/competitions/titanic](https://www.kaggle.com/datasets/parisrohan/credit-score-classification))
 
 ## 🤝Contributing
@@ -117,15 +111,15 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+- **Tableau Public**: [Tableau Public](https://public.tableau.com/app/profile/akshay.shekade/vizzes)
+
 
 🌐Feel free to connect with me!
 
@@ -138,7 +132,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
