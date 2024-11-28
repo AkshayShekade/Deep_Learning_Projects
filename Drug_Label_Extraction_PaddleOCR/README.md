@@ -47,14 +47,7 @@ The project demonstrates how PaddleOCR can be effectively used to automate drug 
 - The inspiration for this project came from a demonstration video by **[Nicholas Renotte](https://www.youtube.com/watch?v=t5xwQguk9XU)**.
 - For further technical details, the methodology is based on the paper **[PP-OCR: A Practical Ultra Lightweight OCR System](https://arxiv.org/pdf/2009.09941v3)**.
   
----    
-
-## ⬇️Installation
-
-*To view the notebook online, visit my **Kaggle** profile.*
-*If you find this work helpful, don't forget to give it an 👍 UPVOTE! and join the discussion!*
-
- - Kaggle Notebook: [Drug Label Text Extraction with PaddleOCR 🔎💊](https://www.kaggle.com/code/duygujones/drug-label-text-extraction-with-paddleocr)
+---   
 
 
 ## 🤝Contributing
@@ -65,15 +58,14 @@ Contributions are welcome! If you have any improvements, suggestions, or additio
 
 ## 🌱About Me
 
-I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine learning.
+I'm Akshay Shekade, a Data Scientist, passionate about data visualization, analysis, and machine learning. 
 
 ♻️ You can find more about me and my work through the following links:
 
-- **Linkedin**: [Linkedin/duygujones](https://www.linkedin.com/in/duygujones/)
-- **Website**: [duygujones.com](https://duygujones.vercel.app/)
-- **Kaggle**: [kaggle.com/duygujones](https://www.kaggle.com/duygujones)
-- **GitHub**: [github.com/Duygu-Jones](https://github.com/Duygu-Jones)
-- **Medium**: [medium.com/@duygujones](https://medium.com/@duygujones)
+- **Linkedin**: [Linkedin](https://www.linkedin.com/in/akshay-shekade-a225a8135/?trk=opento_sprofile_topcard)
+- **Website**: [Portfolio](https://akshayshekade.github.io/)
+- **GitHub**: [Github](https://github.com/AkshayShekade)
+
 
 🌐Feel free to connect with me!
 
@@ -86,7 +78,3 @@ I'm Duygu Jones, a Data Scientist, passionate about data analysis, and machine l
 Code with joy! 👩‍💻✨
 
 ---
-
-##### 📜 License
-
-##### This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
